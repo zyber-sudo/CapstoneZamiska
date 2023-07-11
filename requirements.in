@@ -1,7 +1,7 @@
 pandas
 matplotlib
 plotly
-sklearn
+scikit-learn
 IPython
 dash
 statsmodels
