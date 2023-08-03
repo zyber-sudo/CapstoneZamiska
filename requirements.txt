@@ -38,7 +38,7 @@ executing==1.2.0
     # via stack-data
 flask==2.2.5
     # via dash
-fonttools==4.41.1
+fonttools==4.42.0
     # via matplotlib
 idna==3.4
     # via requests
@@ -46,7 +46,7 @@ ipython==8.14.0
     # via -r .\requirements.in
 itsdangerous==2.1.2
     # via flask
-jedi==0.18.2
+jedi==0.19.0
     # via ipython
 jinja2==3.1.2
     # via flask
@@ -64,7 +64,7 @@ matplotlib-inline==0.1.6
     # via ipython
 nest-asyncio==1.5.7
     # via dash
-numpy==1.25.1
+numpy==1.25.2
     # via
     #   contourpy
     #   matplotlib
